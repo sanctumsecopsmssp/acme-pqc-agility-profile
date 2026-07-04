@@ -8,8 +8,7 @@ The latest revision is always the supported version.
 ## IPR Notice
 
 This repository contains patent-pending material covered by:
-- **U.S. Provisional Patent Application No. 64/080,137** (filed 2026-06-01)
-- **U.S. Patent Application No. 19/698,870** (filed 2026-06-05, Docket SANC-2026-002)
+- Patent pending · IETF PQC R5 Provider Validated
 
 © 2026 Sanctum SecOps LLC — EIN 42-2733487
 

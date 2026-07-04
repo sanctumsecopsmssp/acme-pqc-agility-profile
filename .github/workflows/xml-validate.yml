@@ -51,7 +51,7 @@ jobs:
       - name: Check patent refs present
         run: |
           for f in $(find . -name 'draft-*.xml' -not -path './.git/*'); do
-            grep -q "19/698,870\|64/080,137" "$f" && echo "PASS: Patent refs in $f" || echo "WARN: Patent refs missing from $f"
+            grep -q "Patent pending" "$f" && echo "PASS: Patent-pending marker in $f" || echo "WARN: Patent-pending marker missing from $f"
           done
 
       - name: Verify ORCID present
