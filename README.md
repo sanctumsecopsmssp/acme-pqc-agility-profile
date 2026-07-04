@@ -10,15 +10,9 @@
 
 ACME profile extension for per-account/per-order PQC posture negotiation
 
-## Patent Status
+## Status
 
-This work is covered by pending United States patent applications:
-
-- **U.S. Provisional Patent Application No. 64/080,137** (Mechanism I, filed 2026-06-01)
-- **U.S. Patent Application No. 19/698,870** (Mechanism II, filed 2026-06-05, Docket SANC-2026-002)
-
-Patent licensing terms are not yet known. See the IETF Datatracker IPR
-disclosure page for this draft for current status.
+Patent pending · IETF PQC R5 Provider Validated. See the IETF Datatracker IPR disclosure page for this draft for current status.
 
 ## Files
 
