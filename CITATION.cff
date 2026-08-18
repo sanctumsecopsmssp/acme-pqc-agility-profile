@@ -8,7 +8,7 @@ authors:
 title: "ACME PQC Agility Profile"
 version: "00"
 date-released: "2026-06-08"
-url: "https://github.com/Sanc-Admin/acme-pqc-agility-profile"
+url: "https://github.com/sanctumsecopsmssp/acme-pqc-agility-profile"
 license: CC-BY-4.0
 keywords:
   - IETF
